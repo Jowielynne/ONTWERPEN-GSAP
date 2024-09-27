@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   margin-top: 20vh; 
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    margin-bottom: 50px;
+}
+
+.image__container {
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(213, 246, 218);
+    padding: 30px;
+}
+
+img {
+    height: 200px;
+    margin-right: 25px;
+}
+
+footer {
+    margin-top: 50px;
+}
