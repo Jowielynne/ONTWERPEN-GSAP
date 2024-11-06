@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.pixel {
+    width: 4vw;
+    height: 8vh;
+    background-color: blue;
+    margin: 45vh 2px;
+}
